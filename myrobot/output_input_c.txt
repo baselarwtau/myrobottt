@@ -1,0 +1,4 @@
+NumSteps = 10
+DirtLeft = 162
+Status = WORKING
+Steps: Ssssssssss

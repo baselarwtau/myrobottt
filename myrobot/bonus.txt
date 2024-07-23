@@ -1,0 +1,22 @@
+
+Bonus Features Implemented:
+
+1. Automatic Testing with GTest
+- Set up automatic testing using GTest to ensure code robustness.
+- Relevant files and lines:
+  - CMakeLists.txt: lines 5-9, 11-13
+  - test_myalgorithm.cpp: lines 5-15
+  - gtest.h: minimal implementation of Google Test framework
+
+2. Visual Simulation
+- Added a basic visual simulation using Pygame to visualize the vacuum cleaner's movements and cleaning process.
+- Relevant files and lines:
+  - game2.py: contains the entire visual simulation implementation
+
+Files:
+- main.cpp
+- MySimulator.cpp
+- CMakeLists.txt
+- test_myalgorithm.cpp
+- gtest.h
+- game2.py

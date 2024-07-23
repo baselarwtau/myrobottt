@@ -1,0 +1,4 @@
+NumSteps = 0
+DirtLeft = 40
+Status = FINISHED
+Steps: F
